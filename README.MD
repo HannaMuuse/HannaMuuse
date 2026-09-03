@@ -1,15 +1,15 @@
-# Hi 👋, I'm Hanna Muuse
+ Hi 👋, I'm Hanna Muuse
 
 A passionate Web Developer focused on creating clean, user-friendly web applications and building modern digital experiences.
 
 ---
 
-### 💻 About Me
+ About Me
 
-* 🚀 Currently working on web development projects.
-* 📚 Learning modern Frontend frameworks and tools.
-* 💡 Interested in UI/UX design and clean coding standards.
-* 📬 Feel free to reach out for collaborations or freelance work!
+*  Currently working on web development projects.
+*  Learning modern Frontend frameworks and tools.
+* Interested in UI/UX design and clean coding standards.
+* Feel free to reach out for collaborations or freelance work!
 
 ---
 
